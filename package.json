@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-practice-yarn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YukiOnishi1129/github-actions-practice-yarn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YukiOnishi1129/github-actions-practice-yarn/issues"
+  },
+  "homepage": "https://github.com/YukiOnishi1129/github-actions-practice-yarn#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
